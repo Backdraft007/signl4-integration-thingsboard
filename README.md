@@ -1,6 +1,6 @@
-# Mobile alerting with tracking & escalation for ThnigsBoard
+# Mobile alerting with tracking & escalation for ThingsBoard
 
-Mobile alerting with tracking, duty planning and escalation for ThnigsBoard.
+Mobile alerting with tracking, duty planning and escalation for ThingsBoard.
 
 ## Why SIGNL4
 
@@ -10,7 +10,7 @@ ThingsBoard is an open-source IoT platform for device management, data collectio
 
 ## How it Works
 
-All it takes to pair ThnigsBoard and SIGNL4 is a REST API Call in your ThnigsBoard platform that is triggered each time a relevant event appears. This will send the respective data to SIGNL4 and thus to alert the responsible team.
+All it takes to pair ThingsBoard and SIGNL4 is a REST API Call in your ThingsBoard platform that is triggered each time a relevant event appears. This will send the respective data to SIGNL4 and thus to alert the responsible team.
 
 ## Integration Capabilities
 
@@ -34,7 +34,7 @@ All it takes to pair ThnigsBoard and SIGNL4 is a REST API Call in your ThnigsBoa
 
 ## How To Integrate
 
-### Integrating SIGNL4 with ThnigsBoard
+### Integrating SIGNL4 with ThingsBoard
 
 In our example we ThingsBoard installed on Linux and we simulate a temperature alert. When the temperature is too high we send an alert to our SIGNL4 team.
 
